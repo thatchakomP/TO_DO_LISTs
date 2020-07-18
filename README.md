@@ -1,4 +1,4 @@
-# TO DO LIST
+# TO DO LIST Exam
 
 For this project, I implement by using 3 libraries which are:
 - Selenium2Library => for doing simple keyword on web testing
