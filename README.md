@@ -1,7 +1,7 @@
 # TO DO LIST Exam
-Python version: 2.7.15
-robotframework: 3.2.1
-robotframework-selenium2library: 3.0.0
+- Python version: 2.7.15
+- robotframework: 3.2.1
+- robotframework-selenium2library: 3.0.0
 
 I have set selenium speed as 0.5s at LoadBrowser.robot file to make it run slower 
 
