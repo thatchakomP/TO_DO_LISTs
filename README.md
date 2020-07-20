@@ -1,4 +1,7 @@
 # TO DO LIST Exam
+Python version: 2.7.15
+robotframework: 3.2.1
+robotframework-selenium2library: 3.0.0
 
 For this project, I implement by using 3 libraries which are:
 - Selenium2Library => for doing simple keyword on web testing
